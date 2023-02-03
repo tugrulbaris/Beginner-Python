@@ -27,6 +27,6 @@ while True:
             print(todos)
 
         case 'exit':
-            brea
+            break
             
 print("See you later!")
