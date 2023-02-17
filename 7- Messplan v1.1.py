@@ -1,6 +1,6 @@
 # Yo Messplan isnt working, I made this for just training my python skills.
 # At this version when u type show, scheduled messages looks better than first version.
-# Note to future: I cant study python rn because of earthquake man, hope we'll escape from this fucking situation see you. 
+# Note to future: I cant study python rn because of earthquake man, hope we'll escape from this situation see you. 
 
 print("Welcome to Messplan!")
 
